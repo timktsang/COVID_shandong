@@ -8,3 +8,5 @@ Model_withou_rm is the model for sensitivity analysis without difference of indi
 
 In those folders, model_ab indicate assumptions on incubation period a and duration of infectiousness b respectivity.
 
+a: 2: short (5 days) , 4: long (7 days)
+b: 1: short (13 days), 3: long (22 days)
